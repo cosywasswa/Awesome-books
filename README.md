@@ -37,7 +37,7 @@
 
 # 📖 [Awesome Books] <a name="about-project"></a>
 
-**[Awesome Books is an application for adding new books to the list by Add button, removing books from the list using the remove button. Books list is stored in the local storage. The website is an SPA-Single Page Application. It displays the particular section accordigly when clicked on navigation bar.]**
+**[Awesome Books is an application for adding new books to the list by Add button, removing books from the list using the remove button. Books list is stored in the local storage. The website is an SPA-Single Page Application. It displays the particular section accordigly when clicked on navigation bar and supports modules using ES6.]**
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -71,7 +71,7 @@
 ### Key Features <a name="key-features"></a>
 
 - **[Displays List of Awesome Books]**
-- **[Addition of New Books]**
+- **[Addition of New Books by use of Modules]**
 - **[Removal of a book from the list]**
 - **[Local storage]**
 - **[Navigation Bar, Header, Footer]**
@@ -107,7 +107,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:Mike111222/Awesome-Books.git
+  git clone https://github.com/cosywasswa/Awesome-books.git
 ```
 
 ### To run the project
@@ -121,19 +121,10 @@ Use index.html file.
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Muhammad Amran Khan [Mike]**
 👤 **Cosmas wasswa**
-👤 **Collins Akorda GitHub: [@firstpj]**
-
-- GitHub: [@githubhandle](https://github.com/Mike111222)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/Mike111222)
-- Twitter: [@twitterhandle](https://twitter.com/iMike111222)
 
 - GitHub: [@githubhandle](https://github.com/cosywasswa)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/cosmas-wasswa-931a2761/)
-
-- GitHub: [@githubhandle](https://github.com/firstpj)
-- LinkedIn: [Collins Akorda](https://www.linkedin.com/in/collins-akorda-bb46b2232/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -167,7 +158,7 @@ If you like this project, just reach out to me for more projects even better tha
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank my fellow Authors, my code reviewers and Microverse.
+I would like to my code reviewers and Microverse.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -177,7 +168,7 @@ I would like to thank my fellow Authors, my code reviewers and Microverse.
 
 - **[How can the project be improved]**
 
-  - [More features can be intergrated by adding more pages for example reservation page]
+  - [More features can be intergrated by adding more pages]
 
 - **[Can I use this project for study purposes]**
 
